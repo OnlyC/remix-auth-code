@@ -1,5 +1,5 @@
 {
-  "name": "remix-auth-email-link",
+  "name": "remix-auth-code",
   "version": "1.3.1",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -24,7 +24,7 @@
     "url": "https://github.com/pbteja1998"
   },
   "repository": {
-    "url": "https://github.com/pbteja1998/remix-auth-email-link",
+    "url": "https://github.com/OnlyC/remix-auth-code",
     "type": "git"
   },
   "license": "MIT",
